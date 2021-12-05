@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillermo Eduardo Aguado Moleón</h1>
-<h3 align="center">A passionate software engineer student from University of Malaga</h3>
+<h3 align="center">A passionate software engineering student from University of Malaga</h3>
 
 <img src="https://c.tenor.com/WJYaqBmuyK0AAAAC/futaba-anime.gif" alt="Futaba Sakura typping in a computer gif" align="right"/>
 
